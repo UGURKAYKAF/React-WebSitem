@@ -1,0 +1,40 @@
+{
+    "proje": [
+        {
+            "baslik": "baslik",
+            "aciklama": "React Bu bir örnek projedir.",
+            "imgUrl": "/logo192.png",
+            "dil": "React",
+            "githubLink": "https://github.com/ornek/proje"
+        },
+        {
+            "baslik": "baslik2",
+            "aciklama": "PHP Bu bir örnek projedir.2",
+            "imgUrl": "/logo512.png",
+            "dil": "PHP",
+            "githubLink": "https://github.com/ornek/proje"
+        },
+        {
+            "baslik": "baslik3",
+            "aciklama": "Java Bu bir örnek projedir.2",
+            "imgUrl": "/logo512.png",
+            "dil": "Java",
+            "githubLink": "https://github.com/ornek/proje"
+        },
+        {
+            "baslik": "baslik3",
+            "aciklama": "sd Bu bir örnek projedir.2",
+            "imgUrl": "/logo512.png",
+            "dil": "sd",
+            "githubLink": "https://github.com/ornek/proje"
+        }
+        ,
+        {
+            "baslik": "baslik3",
+            "aciklama": "sd Bu bir örnek projedir.2",
+            "imgUrl": "/logo512.png",
+            "dil": "ssdd",
+            "githubLink": "https://github.com/ornek/proje"
+        }
+    ]
+}

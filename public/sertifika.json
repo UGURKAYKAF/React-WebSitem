@@ -1,0 +1,14 @@
+{
+    "sertifika": [
+        {
+            "başlık": "Örnek Sertifika 1",
+            "verenKuruluş": "Örnek Kuruluş 1",
+            "sertifikaLinki": "https://example.com/sertifika1"
+          },
+          {
+            "başlık": "Örnek Sertifika 2",
+            "verenKuruluş": "Örnek Kuruluş 2",
+            "sertifikaLinki": "https://example.com/sertifika2"
+          }
+    ]
+}
