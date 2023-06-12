@@ -19,17 +19,19 @@
 
 import { Col } from "react-bootstrap";
 
-export const ProjectCard = ({ baslik, aciklama, imgUrl }) => {
+export const ProjectCard = ({ baslik, aciklama, imgUrl, githubLink }) => {
   // console.log(baslik);
   return (
     <Col size={12} sm={6} md={3}>
       <div className="proj-imgbx">
         <img src={imgUrl} alt="Img" />
         <div className="proj-txtx">
-          <h4>{baslik}</h4>
-          <span>{aciklama}</span>
-          <div className="proj-link">
+          <h4>{baslik}</h4>          
+          {/* <div className="proj-link">
             <a href={imgUrl}>link</a>
+          </div> */}
+          <div className="proj-githubLink">
+            <a>Proje Linki: </a><a href={githubLink}>Link</a>
           </div>
         </div>
       </div>

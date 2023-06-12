@@ -5,7 +5,7 @@ import { Skills } from "./Skills";
 import { Projects } from "./Projects";
 import { Contact } from "./Contact";
 import { Footer } from "./Footer";
-
+import { Certificates } from './Certificates';
 export function Home() {
     
     return (
@@ -14,6 +14,7 @@ export function Home() {
             <Banner />
             <Skills />
             <Projects />
+            <Certificates />
             <Contact />
             <Footer />
         </>
