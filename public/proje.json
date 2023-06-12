@@ -4,14 +4,14 @@
             "baslik": "baslik",
             "aciklama": "React Bu bir örnek projedir.",
             "imgUrl": "/logo192.png",
-            "dil": "React",
+            "dil": "C",
             "githubLink": "https://github.com/ornek/proje"
         },
         {
             "baslik": "baslik2",
             "aciklama": "PHP Bu bir örnek projedir.2",
             "imgUrl": "/logo512.png",
-            "dil": "PHP",
+            "dil": "C#",
             "githubLink": "https://github.com/ornek/proje"
         },
         {
@@ -25,15 +25,35 @@
             "baslik": "baslik3",
             "aciklama": "sd Bu bir örnek projedir.2",
             "imgUrl": "/logo512.png",
-            "dil": "sd",
+            "dil": "Python",
             "githubLink": "https://github.com/ornek/proje"
-        }
-        ,
+        },
         {
             "baslik": "baslik",
             "aciklama": "sd Bu bir örnek projedir.2",
             "imgUrl": "/logo512.png",
-            "dil": "ssdd",
+            "dil": "PHP",
+            "githubLink": "https://github.com/ornek/proje"
+        },
+        {
+            "baslik": "baslik",
+            "aciklama": "sd Bu bir örnek projedir.2",
+            "imgUrl": "/logo512.png",
+            "dil": "HTML / CSS",
+            "githubLink": "https://github.com/ornek/proje"
+        },
+        {
+            "baslik": "baslik",
+            "aciklama": "sd Bu bir örnek projedir.2",
+            "imgUrl": "/logo512.png",
+            "dil": "JS / React.JS",
+            "githubLink": "https://github.com/ornek/proje"
+        },
+        {
+            "baslik": "baslik",
+            "aciklama": "sd Bu bir örnek projedir.2",
+            "imgUrl": "/logo512.png",
+            "dil": "Unity 2D",
             "githubLink": "https://github.com/ornek/proje"
         }
     ]

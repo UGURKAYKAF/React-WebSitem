@@ -132,7 +132,7 @@ export const Projects = () => {
                     <Nav variant="pills" className="d-flex flex-row  mb-5 justify-content-center align-items-center" id="pills-tab">
                       {languages.map((language, index) => (
                         <Nav.Item key={index}>
-                          <Nav.Link eventKey={index}>{language}</Nav.Link>
+                          <Nav.Link eventKey={index} className="as">{language}</Nav.Link>
                         </Nav.Item>
                       ))}
                     </Nav>
@@ -159,6 +159,28 @@ export const Projects = () => {
           </Col>
         </Row>
       </Container>
+      {/* <Container>
+        <Row>
+          <Col>
+            <TrackVisibility>
+            {({ isVisible }) =>
+                <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
+                  <h2>Projects</h2>
+                  <Tab.Container id="projects-tabs" defaultActiveKey="0">
+                    <Nav variant="pills" className="d-flex flex-row  mb-5 justify-content-center align-items-center" id="pills-tab">
+                      {languages.map((language, index) => (
+                        <Nav.Item key={index}>
+                          <Nav.Link eventKey={index} className="as">{language}</Nav.Link>
+                        </Nav.Item>
+                      ))}
+                    </Nav>
+                    
+                  </Tab.Container>
+                </div>}
+            </TrackVisibility>
+          </Col>
+        </Row>
+      </Container> */}
       <img className="background-image-right" src={colorSharp2} alt="Img"></img>
     </section>
   )
