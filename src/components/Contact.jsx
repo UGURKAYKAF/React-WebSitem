@@ -97,12 +97,20 @@
 
 
 
-import React,{ useState } from "react";
+import React, { useState } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import contactImg from "../assets/img/contact-img.svg";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 import emailjs from '@emailjs/browser';
+
+// import navIcon1 from "../assets/img/nav-icon1.svg";
+// import navIcon2 from "../assets/img/nav-icon2.svg";
+// import navIcon3 from "../assets/img/nav-icon3.svg";
+
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faLinkedin, faGithub, faTwitter } from '@fortawesome/free-brands-svg-icons';
 
 export const Contact = () => {
   // const formInitialDetails = {
@@ -125,7 +133,7 @@ export const Contact = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    // setButtonText("Sending...");
+    setButtonText("Sending...");
     emailjs.sendForm('service_6oepxuv', 'myWebSite', e.target, 'wc8hYZ4NZO05vGvq0')
       .then((result) => {
         console.log(result.text);
@@ -157,23 +165,37 @@ export const Contact = () => {
             <TrackVisibility>
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                  <h2>Get In Touch</h2>
+                  <h2>Bana Ulaş</h2>
+                  <Row>
+                    <Col>
+                      <h4>Telefon Numaram:</h4>
+                      <h5>+90 531 833 42 43</h5>
+                    </Col>
+                    <Col >
+                      <h4>E-Mail Adresim:</h4>
+                      <h5>ugurkaykaf@gmail.com</h5>
+                    </Col>
+                  </Row>
+                  <hr></hr>
                   <form onSubmit={handleSubmit} >
-                    <Row>
-                      <Col size={12} sm={6} className="px-1">
-                        <input type="text"  placeholder="First Name"  name="firstName"/>
+                    <Row className="pt-3">
+                      <Col size={12} sm={6} className="px-1 ">
+                        <input type="text" placeholder="First Name" name="firstName" />
                       </Col>
                       <Col size={12} sm={6} className="px-1">
-                        <input type="text"  placeholder="Last Name" name="lastName"/>
+                        <input type="text" placeholder="Last Name" name="lastName" />
                       </Col>
                       <Col size={12} sm={6} className="px-1">
-                        <input type="email"  placeholder="Email Address"  name="email"/>
+                        <input type="email" placeholder="Email Address" name="email" />
                       </Col>
                       <Col size={12} sm={6} className="px-1">
-                        <input type="tel"  placeholder="Phone No." name="phone"/>
+                        <input type="tel" placeholder="Phone No." name="phone" />
+                      </Col >
+                      <Col size={12} sm={12} className="px-1">
+                        <input type="text" placeholder="Konu" name="subject" />
                       </Col>
                       <Col size={12} className="px-1">
-                        <textarea rows="6"  placeholder="Message"  name="message"></textarea>
+                        <textarea rows="6" placeholder="Message" name="message"></textarea>
                         <button type="submit"><span>{buttonText}</span></button>
                       </Col>
                       {/* {
@@ -184,6 +206,30 @@ export const Contact = () => {
                       } */}
                     </Row>
                   </form>
+                  <hr />
+                  <Row>
+                    <Col></Col>
+                    <Col size={12} sm={12} md={4}>
+                      {/* <div className="social-icon mt-3 pt-3">
+                        <a href="https://www.linkedin.com/in/uğurkaykaf/"><img src={navIcon1} alt="Icon" /></a>
+                        <a href="https://github.com/UGURKAYKAF"><img src={navIcon2} alt="Icon" /></a>
+                        <a href="https://twitter.com/ugurkaykaf"><img src={navIcon3} alt="Icon" /></a>
+                      </div> */}
+                      <div className="social-icon mt-3 pt-3">
+                        <a href="https://www.linkedin.com/in/uğurkaykaf">
+                          <FontAwesomeIcon icon={faLinkedin} />
+                        </a>
+                        <a href="https://github.com/UGURKAYKAF">
+                          <FontAwesomeIcon icon={faGithub} />
+                        </a>
+                        <a href="https://twitter.com/ugurkaykaf">
+                          <FontAwesomeIcon icon={faTwitter} />
+                        </a>
+                      </div>
+                    </Col>
+                    <Col></Col>
+                  </Row>
+
                 </div>}
             </TrackVisibility>
           </Col>

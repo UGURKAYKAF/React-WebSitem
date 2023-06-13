@@ -1,6 +1,6 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { CertificatesCard } from "./CertificatesCard";
-import colorSharp2 from "../assets/img/color-sharp2.png";
+import colorSharp2 from "../assets/img/color-sharp.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 import { useEffect, useState } from "react";
@@ -20,13 +20,14 @@ export const Certificates = () => {
   }, []);
 
   return (
-    <section className="project" id="projects">
+    <section className="project" id="certificates">
       <Container>
         <Row>
           <Col size={12}>
             <TrackVisibility>
-              {({ isVisible }) =>
+              {({ isVisible }) =>              
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
+                  {/* <img lassName="background-image-left" src={colorSharp2} alt="Contact Us"/> */}
                   <h2>Certificates</h2>
                   <Tab.Container id="projects-tabs" defaultActiveKey="0">
                     <Nav variant="pills" className="d-flex flex-row  mb-5 justify-content-center align-items-center" id="pills-tab">
@@ -60,7 +61,9 @@ export const Certificates = () => {
         </Row>
       </Container>
       {/* <img className="background-image-right" src={colorSharp2} alt="Img"></img> */}
-      <img className="background-image-left" src={colorSharp2} alt="img" />
+      {/* <img className="background-image-left" src={colorSharp2} alt="img" /> */}
+      <img className="background-image-left" src={colorSharp2} alt="Img" />
+      
     </section>
   )
 }
