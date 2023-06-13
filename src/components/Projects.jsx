@@ -110,7 +110,7 @@ export const Projects = () => {
   const [languages, setLanguages] = useState([]);
 
   useEffect(() => {
-    fetch("./proje.json")
+    fetch("./json/proje.json")
       .then(response => response.json())
       .then(data => {
         setData(data.proje);
@@ -159,7 +159,7 @@ export const Projects = () => {
           </Col>
         </Row>
       </Container>
-      <img className="background-image-right" src={colorSharp2} alt="Img"></img>
+      <img className="background-image-right" src={colorSharp2} alt="Img" />
     </section>
   )
 }

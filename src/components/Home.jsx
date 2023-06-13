@@ -6,8 +6,9 @@ import { Projects } from "./Projects";
 import { Contact } from "./Contact";
 import { Footer } from "./Footer";
 import { Certificates } from './Certificates';
-export function Home() {
-    
+
+
+export function Home() {    
     return (
         <>
             <NavBar />

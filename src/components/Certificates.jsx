@@ -10,7 +10,7 @@ export const Certificates = () => {
   const [company, setCompany] = useState([]);
 
   useEffect(() => {
-    fetch("./sertifika.json")
+    fetch("./json/sertifika.json")
       .then(response => response.json())
       .then(data => {
         setData(data.sertifika);
@@ -59,7 +59,8 @@ export const Certificates = () => {
           </Col>
         </Row>
       </Container>
-      <img className="background-image-right" src={colorSharp2} alt="Img"></img>
+      {/* <img className="background-image-right" src={colorSharp2} alt="Img"></img> */}
+      <img className="background-image-left" src={colorSharp2} alt="img" />
     </section>
   )
 }

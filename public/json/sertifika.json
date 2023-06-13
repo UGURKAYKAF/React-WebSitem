@@ -1,0 +1,159 @@
+{
+  "sertifika": [
+    {
+      "başlık": "Bilgi Teknolojilerine Giriş",
+      "verenKuruluş": "BTK Akademi",
+      "sertifikaLinki": "/img/sertifika/bilgi-teknolojilerine-giriş-BTK.png"
+    },
+    {
+      "başlık": "Yapay Zeka 101",
+      "verenKuruluş": "Akbank Gençlik Akademisi",
+      "sertifikaLinki": "/img/sertifika/Yapay-zeka101-akbank.png"
+    },
+    {
+      "başlık": "Siber Güvenlik",
+      "verenKuruluş": "İstanbul Gelişim Üniversitesi",
+      "sertifikaLinki": "/img/sertifika/Siber-Güvenlik-eğitimi-igu.png"
+    },
+    {
+      "başlık": "Front-End",
+      "verenKuruluş": "İstanbul Gelişim Üniversitesi",
+      "sertifikaLinki": "/img/sertifika/front-end-eğitimi-igu.png"
+    },
+    {
+      "başlık": "Fonksiyonel Antrenman",
+      "verenKuruluş": "İstanbul Gelişim Üniversitesi",
+      "sertifikaLinki": "/img/sertifika/fonksiyonel-antrenman-eğitimi-igu.png"
+    },
+    {
+      "başlık": "C# Temelleri",
+      "verenKuruluş": "İstanbul Gelişim Üniversitesi",
+      "sertifikaLinki": "/img/sertifika/C#-temelleri-igu.png"
+    },
+    {
+      "başlık": "Web Yazılıma Giriş HTML, CSS, Javascript Temel Eğitim",
+      "verenKuruluş": "Udemy",
+      "sertifikaLinki": "/img/sertifika/Web-yazılıma-giriş-Udemy.png"
+    },
+    {
+      "başlık": "Siber Güvenlik 101",
+      "verenKuruluş": "Akbank Gençlik Akademisi",
+      "sertifikaLinki": "/img/sertifika/Siber-Güvenlik101-akbank.png"
+    },
+    {
+      "başlık": "Java İle Programlamaya giriş - 2",
+      "verenKuruluş": "Udemy",
+      "sertifikaLinki": "/img/sertifika/java-ile-programlamya-giriş2-Udemy.png"
+    },
+    {
+      "başlık": "Java İle Programlamaya giriş - 1",
+      "verenKuruluş": "Udemy",
+      "sertifikaLinki": "/img/sertifika/java-ile-programlamya-giriş1-Udemy.png"
+    },
+    {
+      "başlık": "Veri 101",
+      "verenKuruluş": "Akbank Gençlik Akademisi",
+      "sertifikaLinki": "/img/sertifika/veri101-akbank.png"
+    },
+    {
+      "başlık": "Siber Güvenliğe Giriş",
+      "verenKuruluş": "Cisco Networking Academy",
+      "sertifikaLinki": "/img/sertifika/Siber-Güvenliğe-Giriş-cisco.png"
+    },
+    {
+      "başlık": "Mobil Geliştirme 101",
+      "verenKuruluş": "Akbank Gençlik Akademisi",
+      "sertifikaLinki": "/img/sertifika/mobil-geliştirme101-akbank.png"
+    },
+    {
+      "başlık": "Linux Giriş",
+      "verenKuruluş": "Cisco Networking Academy",
+      "sertifikaLinki": "/img/sertifika/linux-giriş-cisco.png"
+    },
+    {
+      "başlık": "E-Ticaret 101",
+      "verenKuruluş": "Akbank Gençlik Akademisi",
+      "sertifikaLinki": "/img/sertifika/e-ticaret101-akbank.png"
+    },
+    {
+      "başlık": "Kariyer ve Networking 101",
+      "verenKuruluş": "Akbank Gençlik Akademisi",
+      "sertifikaLinki": "/img/sertifika/kariyer-ve-networking101-akbank.png"
+    },
+    {
+      "başlık": "JAVA ile Programlamaya Giriş",
+      "verenKuruluş": "BTK Akademi",
+      "sertifikaLinki": "/img/sertifika/java-ile-programlamya-giriş-BTK.png"
+    },
+    {
+      "başlık": "HTML5 ile Programlamaya Giriş",
+      "verenKuruluş": "BTK Akademi",
+      "sertifikaLinki": "/img/sertifika/html5-ile-web-geliştirme-BTK.png"
+    },
+    {
+      "başlık": "Ağlara Giriş",
+      "verenKuruluş": "Cisco Networking Academy",
+      "sertifikaLinki": "/img/sertifika/ağlara-giriş-cisco.png"
+    },
+    {
+      "başlık": "Java 101",
+      "verenKuruluş": "Turkcell Geleceği Yazanlar",
+      "sertifikaLinki": "https://gelecegiyazanlar.turkcell.com.tr/certificate/dWlkMjMxMTYzY2lkMzc0OTFxaWQxNDBlbmQ="
+    },
+    {
+      "başlık": "Java 201",
+      "verenKuruluş": "Turkcell Geleceği Yazanlar",
+      "sertifikaLinki": "https://gelecegiyazanlar.turkcell.com.tr/certificate/dWlkMjMxMTYzY2lkMzc0OTJxaWQxNDFlbmQ="
+    },
+    {
+      "başlık": "Introduction to Python",
+      "verenKuruluş": "Global AI Hub",
+      "sertifikaLinki": "https://globalaihub.com/verify/?ref=product&certificate=eyJ1c2VyLWlkIjoxNTk0NzAsImNvdXJzZS1pZCI6MTEwNTQ4LCJjZXJ0LWlkIjoiMTEwODkxIn0="
+    },
+    {
+      "başlık": "Web Geliştirme 101 HTML",
+      "verenKuruluş": "Turkcell Geleceği Yazanlar",
+      "sertifikaLinki": "https://gelecegiyazanlar.turkcell.com.tr/certificate/dWlkMjMxMTYzY2lkNTY5cWlkMTEwZW5k"
+    },
+    {
+      "başlık": "Web Geliştirme 201 HTML5 & CSS",
+      "verenKuruluş": "Turkcell Geleceği Yazanlar",
+      "sertifikaLinki": "https://gelecegiyazanlar.turkcell.com.tr/certificate/dWlkMjMxMTYzY2lkNTcwcWlkMTA5ZW5k"
+    },
+    {
+      "başlık": "Web Geliştirme 301 JavaScript",
+      "verenKuruluş": "Turkcell Geleceği Yazanlar",
+      "sertifikaLinki": "https://gelecegiyazanlar.turkcell.com.tr/certificate/dWlkMjMxMTYzY2lkNTcxcWlkMTExZW5k"
+    },
+    {
+      "başlık": "Python for Machine Learning",
+      "verenKuruluş": "Global AI Hub",
+      "sertifikaLinki": "https://globalaihub.com/verify/?ref=product&certificate=eyJ1c2VyLWlkIjoxNTk0NzAsImNvdXJzZS1pZCI6MTEyODY0LCJjZXJ0LWlkIjoiMTEzMjYzIn0="
+    },
+    {
+      "başlık": "Cybersecurity Analyst Program Participant",
+      "verenKuruluş": "Akbank Gençlik Akademisi",
+      "sertifikaLinki": "https://www.credly.com/badges/0021382e-2039-40b8-9c0b-161e6b68e9d8/linked_in_profile"
+    },
+    {
+      "başlık": "CCNA SGA4 CYBEROPS",
+      "verenKuruluş": "Cisco Networking Academy",
+      "sertifikaLinki": "https://www.credly.com/badges/5351427b-f713-48aa-a70e-4cbd6e2b3d37"
+    },
+    {
+      "başlık": "İş sağlığı ve Günvenliği",
+      "verenKuruluş": "YTNK TV (Ulusal Staj Programı)",
+      "sertifikaLinki": "/img/sertifika/iş-sağlığı-ve-güvenliği-YTNKTV.png"
+    },
+    {
+      "başlık": "Digital Talent Summit digital",
+      "verenKuruluş": "Global AI Hub",
+      "sertifikaLinki": "https://verified.sertifier.com/en/verify/13609805424239/?ref=email"
+    },
+    {
+      "başlık": "Akbank Veri Analizi Bootcamp",
+      "verenKuruluş": "Global AI Hub",
+      "sertifikaLinki": "https://globalaihub.com/verify/?ref=product&certificate=eyJ1c2VyLWlkIjoxNTk0NzAsImNvdXJzZS1pZCI6MTE4MjQ0LCJjZXJ0LWlkIjoiMTE4MjQ4In0="
+    }
+  ]
+}

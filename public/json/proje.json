@@ -2,196 +2,196 @@
     "proje": [{
             "baslik": "Snake Game",
             "aciklama": "",
-            "imgUrl": "/C-logo.svg",
+            "imgUrl": "/img/logo/C-logo.svg",
             "dil": "C",
             "githubLink": "https://github.com/UGURKAYKAF/C-SnakeGame"
         },
         {
             "baslik": "Space Game",
             "aciklama": "",
-            "imgUrl": "/C-logo.svg",
+            "imgUrl": "/img/logo/C-logo.svg",
             "dil": "C",
             "githubLink": "https://github.com/UGURKAYKAF/C-SpaceGame"
         },
         {
             "baslik": "Demo Projects",
             "aciklama": "",
-            "imgUrl": "/C-logo.svg",
+            "imgUrl": "/img/logo/C-logo.svg",
             "dil": "C",
             "githubLink": "https://github.com/UGURKAYKAF/C-DemoProjects"
         },
         {
             "baslik": "Matmatik",
             "aciklama": "",
-            "imgUrl": "/Csharp-logo.svg",
+            "imgUrl": "/img/logo/Csharp-logo.svg",
             "dil": "C#",
             "githubLink": "https://github.com/UGURKAYKAF/Matmatik"
         },
         {
             "baslik": "Banka Otomasyonu",
             "aciklama": "",
-            "imgUrl": "/Csharp-logo.svg",
+            "imgUrl": "/img/logo/Csharp-logo.svg",
             "dil": "C#",
             "githubLink": "https://github.com/UGURKAYKAF/BankaOtomasyonuWindowApp2"
         },
         {
             "baslik": "Tır Otomasyon Sistemi",
             "aciklama": "",
-            "imgUrl": "/Csharp-logo.svg",
+            "imgUrl": "/img/logo/Csharp-logo.svg",
             "dil": "C#",
             "githubLink": "https://github.com/UGURKAYKAF/TirOtomasyonSistemi"
         },
         {
             "baslik": "Tır Takip",
             "aciklama": "",
-            "imgUrl": "/Csharp-logo.svg",
+            "imgUrl": "/img/logo/Csharp-logo.svg",
             "dil": "C#",
             "githubLink": "https://github.com/UGURKAYKAF/TirTakipWindowsApp"
         },
         {
             "baslik": "Banka",
             "aciklama": "",
-            "imgUrl": "/Csharp-logo.svg",
+            "imgUrl": "/img/logo/Csharp-logo.svg",
             "dil": "C#",
             "githubLink": "https://github.com/UGURKAYKAF/BankaWindowsApp"
         },
         {
             "baslik": "Uzay Oyunu",
             "aciklama": "",
-            "imgUrl": "/unity-logo.svg",
+            "imgUrl": "/img/logo/unity-logo.svg",
             "dil": "Unity 2D",
             "githubLink": "https://github.com/UGURKAYKAF/Unity2D-Uzay-Oyunu"
         },        
         {
             "baslik": "Kaleden Kaçış",
             "aciklama": "",
-            "imgUrl": "/unity-logo.svg",
+            "imgUrl": "/img/logo/unity-logo.svg",
             "dil": "Unity 2D",
             "githubLink": "https://github.com/UGURKAYKAF/Unity2D-KaledenKacisGame"
         },
         {
             "baslik": "TIr Takip Web Sitesi",
             "aciklama": "",
-            "imgUrl": "/html-logo.svg",
+            "imgUrl": "/img/logo/html-logo.svg",
             "dil": "HTML",
             "githubLink": "https://github.com/UGURKAYKAF/CSS-TirTakipWebSitesi"
         },
         {
             "baslik": "Web Site Demo",
             "aciklama": "",
-            "imgUrl": "/html-logo.svg",
+            "imgUrl": "/img/logo/html-logo.svg",
             "dil": "HTML",
             "githubLink": "https://github.com/UGURKAYKAF/CSS-WebSiteDemo"
         },
         {
             "baslik": "Java Demo Projects",
             "aciklama": "",
-            "imgUrl": "/java-logo.svg",
+            "imgUrl": "/img/logo/java-logo.svg",
             "dil": "Java",
             "githubLink": "https://github.com/UGURKAYKAF/Java-DemoProjects"
         },
         {
             "baslik": "Banka Windows App",
             "aciklama": "",
-            "imgUrl": "/java-logo.svg",
+            "imgUrl": "/img/logo/java-logo.svg",
             "dil": "Java",
             "githubLink": "https://github.com/UGURKAYKAF/JAVA-BankaWindowsApp"
         },
         {
             "baslik": "Bank Console App",
             "aciklama": "",
-            "imgUrl": "/java-logo.svg",
+            "imgUrl": "/img/logo/java-logo.svg",
             "dil": "Java",
             "githubLink": "https://github.com/UGURKAYKAF/JAVA-BankConsoleApp"
         },
         {
             "baslik": "Reddit Console App",
             "aciklama": "",
-            "imgUrl": "/java-logo.svg",
+            "imgUrl": "/img/logo/java-logo.svg",
             "dil": "Java",
             "githubLink": "https://github.com/UGURKAYKAF/JAVA-RedditConsoleApp"
         },
         {
             "baslik": "Break Out Ball Windows Game",
             "aciklama": "",
-            "imgUrl": "/java-logo.svg",
+            "imgUrl": "/img/logo/java-logo.svg",
             "dil": "Java",
             "githubLink": "https://github.com/UGURKAYKAF/JAVA-BreakOutBallWindowsAppGame"
         },
         {
             "baslik": "Leet Code",
             "aciklama": "",
-            "imgUrl": "/java-logo.svg",
+            "imgUrl": "/img/logo/java-logo.svg",
             "dil": "Java",
             "githubLink": "https://github.com/UGURKAYKAF/JAVA-LeetCode"
         },
         {
             "baslik": "Snake Game",
             "aciklama": "",
-            "imgUrl": "/java-logo.svg",
+            "imgUrl": "/img/logo/java-logo.svg",
             "dil": "Java",
             "githubLink": "https://github.com/UGURKAYKAF/JAVA-SnakeGame"
         },
         {
             "baslik": "React - XOX Game",
-            "aciklama": "yine bir başka oyun",
-            "imgUrl": "/javascript-logo.svg",
+            "aciklama": "",
+            "imgUrl": "/img/logo/react-logo.png",
             "dil": "JavaScript / React.JS",
             "githubLink": "https://github.com/UGURKAYKAF/ReactJS-XOXGame"
         },
         {
             "baslik": "React - Weather App",
             "aciklama": "",
-            "imgUrl": "/javascript-logo.svg",
+            "imgUrl": "/img/logo/react-logo.png",
             "dil": "JavaScript / React.JS",
             "githubLink": "https://github.com/UGURKAYKAF/ReactJS-WeatherApp"
         },
         {
             "baslik": "React - To Do List",
             "aciklama": "",
-            "imgUrl": "/javascript-logo.svg",
+            "imgUrl": "/img/logo/react-logo.png",
             "dil": "JavaScript / React.JS",
             "githubLink": "https://github.com/UGURKAYKAF/ReactJS-ToDoList"
         },
         {
             "baslik": "React - Calculator App",
             "aciklama": "",
-            "imgUrl": "/javascript-logo.svg",
+            "imgUrl": "/img/logo/react-logo.png",
             "dil": "JavaScript / React.JS",
             "githubLink": "https://github.com/UGURKAYKAF/ReactJS-CalculatorApp"
         },
         {
             "baslik": "JavaScript - To Do List",
             "aciklama": "",
-            "imgUrl": "/javascript-logo.svg",
+            "imgUrl": "/img/logo/javascript-logo.svg",
             "dil": "JavaScript / React.JS",
             "githubLink": "https://github.com/UGURKAYKAF/JS-ToDoList"
         },
         {
             "baslik": "JavaScript - Portfolio Web Sitem",
             "aciklama": "",
-            "imgUrl": "/javascript-logo.svg",
+            "imgUrl": "/img/logo/javascript-logo.svg",
             "dil": "JavaScript / React.JS",
             "githubLink": "https://ugurkaykaf.netlify.app"
         },
         {
             "baslik": "Gayri Safi Milli Hasıla Hesaplama Yapay Zeka",
             "aciklama": "",
-            "imgUrl": "/python-logo.svg",
+            "imgUrl": "/img/logo/python-logo.svg",
             "dil": "Python",
             "githubLink": "https://github.com/UGURKAYKAF/GayriSafiMilliHasila"
         },
         {
             "baslik": "Günlük Kazanç",
             "aciklama": "",
-            "imgUrl": "/php-logo.svg",
+            "imgUrl": "/img/logo/php-logo.svg",
             "dil": "Php",
             "githubLink": "https://gunlukkazanc.net"
         },
         {
             "baslik": "Kolay İş",
             "aciklama": "",
-            "imgUrl": "/php-logo.svg",
+            "imgUrl": "/img/logo/php-logo.svg",
             "dil": "Php",
             "githubLink": "https://github.com/UGURKAYKAF/PHP-KolayIs"
         }
