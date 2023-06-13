@@ -1,4 +1,3 @@
-
 import { Col, Row } from "react-bootstrap";
 
 export const CertificatesCard = ({ başlık, verenKuruluş, sertifikaLinki }) => {
