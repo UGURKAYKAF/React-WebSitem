@@ -216,13 +216,13 @@ export const Contact = () => {
                         <a href="https://twitter.com/ugurkaykaf"><img src={navIcon3} alt="Icon" /></a>
                       </div> */}
                       <div className="social-icon mt-3 pt-3">
-                        <a href="https://www.linkedin.com/in/uğurkaykaf">
+                        <a href="https://www.linkedin.com/in/uğurkaykaf" target="_blank" rel="noreferrer">
                           <FontAwesomeIcon icon={faLinkedin} />
                         </a>
-                        <a href="https://github.com/UGURKAYKAF">
+                        <a href="https://github.com/UGURKAYKAF" target="_blank" rel="noreferrer">
                           <FontAwesomeIcon icon={faGithub} />
                         </a>
-                        <a href="https://twitter.com/ugurkaykaf">
+                        <a href="https://twitter.com/ugurkaykaf" target="_blank" rel="noreferrer">
                           <FontAwesomeIcon icon={faTwitter} />
                         </a>
                       </div>
