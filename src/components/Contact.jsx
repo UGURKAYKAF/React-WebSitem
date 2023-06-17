@@ -41,11 +41,7 @@ export const Contact = () => {
                   <h2>Bana Ulaş</h2>
                   <Row>
                     <Col >
-                      <h4>E-Mail Adresim:</h4>
-
-                    </Col>
-                    <Col>
-                      <h5>ugurkaykaf@gmail.com</h5>
+                      <h4>E-Mail Adresim: ugurkaykaf@gmail.com</h4>
                     </Col>
                   </Row>
                   <hr></hr>
