@@ -40,10 +40,6 @@ export const Contact = () => {
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                   <h2>Bana Ulaş</h2>
                   <Row>
-                    <Col>
-                      <h4>Telefon Numaram:</h4>
-                      <h5>+90 531 833 42 43</h5>
-                    </Col>
                     <Col >
                       <h4>E-Mail Adresim:</h4>
                       <h5>ugurkaykaf@gmail.com</h5>

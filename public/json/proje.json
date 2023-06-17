@@ -49,13 +49,6 @@
             "githubLink": "https://github.com/UGURKAYKAF/TirTakipWindowsApp"
         },
         {
-            "baslik": "Banka",
-            "aciklama": "",
-            "imgUrl": "/img/logo/Csharp-logo.svg",
-            "dil": "C#",
-            "githubLink": "https://github.com/UGURKAYKAF/BankaWindowsApp"
-        },
-        {
             "baslik": "Uzay Oyunu",
             "aciklama": "",
             "imgUrl": "/img/logo/unity-logo.svg",
