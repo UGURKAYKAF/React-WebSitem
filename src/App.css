@@ -96,6 +96,8 @@ p.danger {
 }
 
 /************ Navbar Css ************/
+
+
 nav.navbar {
   padding: 18px 0;
   position: fixed;
@@ -404,7 +406,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 80px 0;
   position: relative;
   /* background-color: black; */
-  background:  linear-gradient(90.21deg, rgba(170, 54, 124, 0.5) -5.91%, rgba(74, 47, 189, 0.5) 111.58%) 1;
+  /* background:  linear-gradient(90.21deg, rgba(170, 54, 124, 0.5) -5.91%, rgba(74, 47, 189, 0.5) 111.58%) 1; */
+  /* background-color: rgb(141, 19, 133); */
 }
 
 
@@ -482,13 +485,43 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border: 1px solid rgba(255, 255, 255, 0.5);
   border-radius: 0 55px 55px 0;
 } */
-.proj-imgbx {
-  /* width: 250px;
-  height: 250px; */
+
+/* .portfolio-item{
+  width: 407px;
+  height: 250px;
+}
+.portfolio-img{
+  object-fit: cover;
   position: relative;
-  border-radius: 30px;
+} */
+
+/* .proj-imgbx {
+  position: relative;
+  border-radius: 10px;
   overflow: hidden;
   margin-bottom: 24px;
+}
+.proj-imgbx img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+} */
+
+
+.proj-imgbx {
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 24px;
+  width: 100%;
+  height: 100%; /* Sabit yüksekliği 300px olarak ayarlayın */
+}
+
+.proj-imgbx img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .proj-imgbx::before {

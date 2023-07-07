@@ -38,7 +38,7 @@ export const Contact = () => {
             <TrackVisibility>
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                  <h2>Bana Ulaş</h2>
+                  <h2>İletişim</h2>
                   <Row>
                     <Col >
                       <h4>E-Mail Adresim: ugurkaykaf@gmail.com</h4>

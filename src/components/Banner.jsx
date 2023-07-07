@@ -61,7 +61,10 @@ export const Banner = () => {
                     </span>
                   </h2>
                   <p>Her zaman ve her alanda yeni bilgiler öğrenmeye hevesli, bilgisayar programcılığı ön lisansı tamamlamış bir programcıyım. İyi ve yaratıcı bir yazılımcı olmak çocukluğumdan beri hayalimdi. Takım çalışması ve takım arkadaşlarıma fikir alışverişi konularında kendime güveniyorum. Ayrıca yazılım konularındaki bakış açısı olarak çalıştığım arkadaşlarıma ve şirketime farklı vizyonlar katabileceğimi düşünüyorum.</p>
-
+                  <div class="d-flex align-items-center">
+                    <a href="/cv/UĞUR KAYKAF.pdf" target="_blank" class="btn btn-lg-square btn-outline-danger text-light border-2 mx-1">Download
+                      CV</a>
+                  </div>
                 </div>}
             </TrackVisibility>
           </Col>

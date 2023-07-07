@@ -28,7 +28,7 @@ export const Certificates = () => {
               {({ isVisible }) =>              
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                   {/* <img lassName="background-image-left" src={colorSharp2} alt="Contact Us"/> */}
-                  <h2>Certificates</h2>
+                  <h2>Sertifikalarım</h2>
                   <Tab.Container id="projects-tabs" defaultActiveKey="0">
                     <Nav variant="pills" className="d-flex flex-row  mb-5 justify-content-center align-items-center" id="pills-tab">
                       {company.map((company, index) => (

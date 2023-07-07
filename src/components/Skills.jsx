@@ -27,18 +27,18 @@ export const Skills = () => {
   const [progressBars] = useState([
     { id: 1, name: 'C', percentage: 85, color: 'bg-danger' },
     { id: 2, name: 'C#', percentage: 60, color: 'bg-secondary' },
-    { id: 3, name: 'Java', percentage: 75, color: 'bg-success' },
+    { id: 3, name: 'Java', percentage: 70, color: 'bg-success' },
     { id: 4, name: 'Python', percentage: 50, color: 'bg-primary' },
     { id: 5, name: 'PHP', percentage: 60, color: 'bg-warning' },
-    { id: 6, name: 'PHP - Laravel', percentage: 30, color: 'bg-info' },
+    { id: 6, name: 'PHP - Laravel', percentage: 25, color: 'bg-info' },
   ]);
 
   const [progressBars2] = useState([
     { id: 7, name: 'HTML 5', percentage: 90, color: 'bg-info' },
     { id: 8, name: 'CSS 3', percentage: 75, color: 'bg-warning' },
-    { id: 9, name: 'CSS - Bootstrap 5', percentage: 70, color: 'bg-danger' },
+    { id: 9, name: 'CSS - Bootstrap 5', percentage: 85, color: 'bg-danger' },
     { id: 10, name: 'JavaScript', percentage: 60, color: 'bg-secondary' },
-    { id: 11, name: 'ReactJS', percentage: 40, color: 'bg-primary' },
+    { id: 11, name: 'ReactJS', percentage: 45, color: 'bg-primary' },
     { id: 12, name: 'SQL', percentage: 55, color: 'bg-success' },
   ]);
 
@@ -48,7 +48,7 @@ export const Skills = () => {
         <div className="row">
           <div className="col-12">
             <div className="skill-bx wow zoomIn">
-              <h2>Skills</h2>
+              <h2>Yeteneklerim</h2>
               <div className="row align-items-center">
                 <div className="col-md-6">
                   <div className="mb-4">

@@ -21,13 +21,13 @@ export const Projects = () => {
 
   return (
     <section className="project" id="projects">
-      <Container>
+      <Container className="container-xxl ">
         <Row>
           <Col size={12}>
             <TrackVisibility>
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                  <h2>Projects</h2>
+                  <h2>Projelerim</h2>
                   <Tab.Container id="projects-tabs" defaultActiveKey="0">
                     <Nav variant="pills" className="d-flex flex-row  mb-5 justify-content-center align-items-center" id="pills-tab">
                       {languages.map((language, index) => (
@@ -39,7 +39,7 @@ export const Projects = () => {
                     <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
                       {languages.map((language, index) => (
                         <Tab.Pane eventKey={index} key={index}>
-                          <Row>
+                          <Row className="g-4">
                             {language === "Tümü"
                               ? data.map((project, index) => (
                                 <ProjectCard key={index} {...project} />
@@ -48,7 +48,8 @@ export const Projects = () => {
                                 .filter(project => project.dil === language)
                                 .map((project, index) => (
                                   <ProjectCard key={index} {...project} />
-                                ))}
+                                ))
+                            }
                           </Row>
                         </Tab.Pane>
                       ))}
